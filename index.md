@@ -4,11 +4,9 @@ I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance pl
 
 [![Javascript30](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Js30Challenge.png)](https://javascript30.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All of the projects can be found here: https://github.com/TheanosLearning
 
 ```markdown
 Syntax highlighted code block
