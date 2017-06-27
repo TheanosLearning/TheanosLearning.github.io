@@ -43,14 +43,13 @@ With ReUps 11-15 recently added, there is a continual effort to keep XP tables u
 
 ```javascript
 var xp = JSON.parse(document.getElementById('initialState').textContent).versus.ExperienceStats.Stats[0];
-{
+/*{
   Level: 100,
   ReUp: 10,
   EXP: 10899900,
   EXPToCurrent: 0,
   EXPToNext: 0
-}
-*/
+}*/
 console.log(xp);
 ```
 
