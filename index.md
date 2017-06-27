@@ -10,6 +10,8 @@ Several projects are actually Chrome extensions. These can easily be installed f
 
 [![Chrome Extensions](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/ChromeExtensions.png)](https://chrome.google.com/webstore/search/gears%20of%20war%204?utm_source=chrome-ntp-icon&_feature=free&_category=ext/14-fun)
 
+### WIP
+
 ```markdown
 Syntax highlighted code block
 
