@@ -10,7 +10,21 @@ Several projects are actually Chrome extensions. These can easily be installed f
 
 [![Chrome Extensions](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/ChromeExtensions.png)](https://chrome.google.com/webstore/search/gears%20of%20war%204?utm_source=chrome-ntp-icon&_feature=free&_category=ext/14-fun)
 
-### WIP
+### Works in Progress
+
+1. [Gears Quest](https://github.com/TheanosLearning/GearsQuest)
+
+Project development will continue after season 2 launch (late summer/early fall 2017) of the Gears Pro Circuit.
+
+```javascript
+var sidebar = document.getElementById('sidebar');
+var quest = sidebar.querySelectorAll('[data-quest-id]')[0];
+var rewardBtn = quest.querySelector('.reward .button');
+// claim your quest reward!
+rewardBtn.click();
+```
+
+2.
 
 ```markdown
 Syntax highlighted code block
