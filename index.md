@@ -6,7 +6,7 @@ I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance pl
 
 ### Projects
 
-All projects (currently 12) can be found here: [github landing](https://github.com/TheanosLearning)
+All projects (currently 12) can be found [here](https://github.com/TheanosLearning).
 
 ```markdown
 Syntax highlighted code block
