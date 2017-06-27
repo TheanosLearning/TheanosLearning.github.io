@@ -1,6 +1,6 @@
 ## Hey guys! I'm TensorFlow,
 
-I enjoy playing Gears of War 4 (specifically Horde) and developing hobby projects to enhance the in & out of game user experience. You can find me on the [Gears of War forums](https://gearsofwar.com/en-us/forums).
+I enjoy playing Gears of War 4 (specifically Horde) and developing hobby projects to enhance player experience. You can find me on the Gears [forums](https://gearsofwar.com/en-us/forums) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
