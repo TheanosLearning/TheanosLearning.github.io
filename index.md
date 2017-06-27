@@ -6,7 +6,7 @@ I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance pl
 
 ### Extensions
 
-Several projects are actually Chrome extensions. These can easily be installed from the Chrome Web Store.
+Several projects are actually Chrome extensions which can be installed from the Chrome Web Store.
 
 [![Chrome Extensions](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/ChromeExtensions.png)](https://chrome.google.com/webstore/search/gears%20of%20war%204?utm_source=chrome-ntp-icon&_feature=free&_category=ext/14-fun)
 
