@@ -26,7 +26,7 @@ rewardBtn.click();
 
 **2. Color Blast Packs**
 
-Making the pack opening experience more exciting by setting the glow animation on open instead of on hover.
+Setting the glow animation on open instead of on hover. Just look at those beautiful floating particles of rarity!
 
 ![gif demo](https://media.giphy.com/media/QLen4sArKARjO/giphy.gif)
 
@@ -35,6 +35,8 @@ Making the pack opening experience more exciting by setting the glow animation o
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
+
+
 ```
 
 ```markdown
