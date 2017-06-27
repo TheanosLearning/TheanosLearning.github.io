@@ -4,7 +4,7 @@ I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance pl
 
 [![Javascript30](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Js30Challenge.png)](https://javascript30.com)
 
-### Projects
+### Extensions
 
 Several projects are actually Chrome extensions. These can easily be installed from the Chrome Web Store.
 
@@ -12,9 +12,9 @@ Several projects are actually Chrome extensions. These can easily be installed f
 
 ### Works in Progress
 
-1. [Gears Quest](https://github.com/TheanosLearning/GearsQuest)
+1. Gears Quest
 
-Project development will continue after season 2 launch (late summer/early fall 2017) of the Gears Pro Circuit.
+Project development will continue after [season 2](https://gearsofwar.com/en-us/community/news/announcing-gears-pro-circuit-season-2) launch (fall 2017) of the Gears Pro Circuit.
 
 ```javascript
 var sidebar = document.getElementById('sidebar');
@@ -24,7 +24,12 @@ var rewardBtn = quest.querySelector('.reward .button');
 rewardBtn.click();
 ```
 
-2.
+2. Color Blast Packs
+
+Making the pack opening experience more exciting by setting the glow animation on open instead of on hover.
+
+![gif demo](https://media.giphy.com/media/QLen4sArKARjO/giphy.gif)
+
 
 ```markdown
 Syntax highlighted code block
