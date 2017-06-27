@@ -23,13 +23,19 @@ var rewardBtn = quest.querySelector('.reward .button');
 // claim your quest reward!
 rewardBtn.click();
 ```
-</br>
+
 **2. Color Blast Packs**
 
 Making the pack opening experience more exciting by setting the glow animation on open instead of on hover.
 
 ![gif demo](https://media.giphy.com/media/QLen4sArKARjO/giphy.gif)
 
+```css
+#pack-view .revealPack .card-list-item .hoverParticles div {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+```
 
 ```markdown
 Syntax highlighted code block
