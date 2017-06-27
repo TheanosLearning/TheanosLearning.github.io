@@ -55,4 +55,4 @@ console.log(xp);
 
 ### Contact
 
-[![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Twitter_Logo_White_On_Blue.png)](https://twitter.com/_TensorFlow) [![DiscordApp](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Twitter_Logo_White_On_Blue.png)](https://twitter.com/_TensorFlow)
+[![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIcon.png)](https://twitter.com/_TensorFlow) [![DiscordApp](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Discord App Logo.png)](https://discord.gg/NvjBC7E)
