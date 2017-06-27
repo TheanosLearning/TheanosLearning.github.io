@@ -12,7 +12,7 @@ Several projects are actually Chrome extensions. These can easily be installed f
 
 ### Works in Progress
 
-1. Gears Quest
+*1. Gears Quest*
 
 Project development will continue after [season 2](https://gearsofwar.com/en-us/community/news/announcing-gears-pro-circuit-season-2) launch (fall 2017) of the Gears Pro Circuit.
 
@@ -23,7 +23,6 @@ var rewardBtn = quest.querySelector('.reward .button');
 // claim your quest reward!
 rewardBtn.click();
 ```
-
 2. Color Blast Packs
 
 Making the pack opening experience more exciting by setting the glow animation on open instead of on hover.
