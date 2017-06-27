@@ -39,13 +39,10 @@ Setting the glow animation on open instead of on hover. Just look at those beaut
 
 **3. ReUp 10+ XP**
 
-With ReUps 11-15 recently added, there is a continual effort to keep XP tables updated. Visit the [forums](https://gearsofwar.com/en-us/forums/e9b54fc61eb74ad783d533ca502b0132/threads/re-up-10-i-need-your-help/7dbfff35-ba75-451a-802b-ef1f540018e3/posts) to help with this effort.
+With ReUps 11-15 recently added, there is a continual effort to keep XP tables updated. Visit the [forums](https://gearsofwar.com/en-us/forums/e9b54fc61eb74ad783d533ca502b0132/threads/re-up-10-i-need-your-help/7dbfff35-ba75-451a-802b-ef1f540018e3/posts) if you would like to help with this effort.
 
 ```javascript
 var xp = JSON.parse(document.getElementById('initialState').textContent).versus.ExperienceStats.Stats[0];
-// log the results
-console.log(xp);
-/*
 {
   Level: 100,
   ReUp: 10,
@@ -54,6 +51,7 @@ console.log(xp);
   EXPToNext: 0
 }
 */
+console.log(xp);
 ```
 
 ```markdown
