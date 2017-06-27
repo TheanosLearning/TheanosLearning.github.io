@@ -1,12 +1,12 @@
 ## Hey guys! I'm TensorFlow,
 
-I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. Most of my projects are in Javascript, which I learned (mostly) by taking the _30 day Javascript challenge_.
+I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. Most of my projects are in Javascript, which I learned by taking the _30 day Javascript challenge_.
 
 [![Javascript30](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Js30Challenge.png)](https://javascript30.com)
 
 ### Projects
 
-All of the projects can be found here: https://github.com/TheanosLearning
+All projects (currently 12) can be found here: [github landing](https://github.com/TheanosLearning)
 
 ```markdown
 Syntax highlighted code block
