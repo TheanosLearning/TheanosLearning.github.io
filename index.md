@@ -23,7 +23,7 @@ var rewardBtn = quest.querySelector('.reward .button');
 // claim your quest reward!
 rewardBtn.click();
 ```
-
+  
 **2. Color Blast Packs**
 
 Setting the glow animation on open instead of on hover. Just look at those beautiful floating particles of rarity!
