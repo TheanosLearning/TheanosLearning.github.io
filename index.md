@@ -62,7 +62,7 @@ var xp = JSON.parse(document.getElementById('initialState').textContent).versus.
 console.log(xp);
 ```
 
-# Contact me on Twitter or Discord
+## Contact me on Twitter or Discord
 
 [![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIcon.png)](https://twitter.com/_TensorFlow)
  &emsp;&emsp;
