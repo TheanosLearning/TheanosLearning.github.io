@@ -1,8 +1,8 @@
 # Hey guys, I'm TensorFlow!
 
-I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. Most of my projects are in Javascript, which I learned by taking the _30 day Javascript challenge_.
+I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. I also like nerding out on in-game numbers and chatting with fellow Gears players & friends on Discord. I'm a member of the *Gears of War Project Development* (GPD) channel.
 
-[![Javascript30](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Js30Challenge.png)](https://javascript30.com)
+![GPD](https://cdn.discordapp.com/icons/293825970509578242/8c02b9de461dcbc6181436b5864e04c0.png)
 
 ## Extensions
 
