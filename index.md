@@ -1,4 +1,4 @@
-# Hey guys! I'm TensorFlow,
+# Hey guys, I'm TensorFlow!
 
 I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. Most of my projects are in Javascript, which I learned by taking the _30 day Javascript challenge_.
 
