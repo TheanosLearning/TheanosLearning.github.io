@@ -1,8 +1,8 @@
 # Hey guys, I'm TensorFlow!
 
-I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. I also like nerding out on in-game numbers, creating spreadsheets, and chatting with fellow Gears players & friends on the [Gears of War Project Development](https://discord.gg/NvjBC7E) (GPD) channel on Discord.
+I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. I also like nerding out on in-game numbers, creating spreadsheets, and chatting with fellow Gears players & friends on the [Gears of War Project Development](https://discord.gg/NvjBC7E) (GPD) channel on [Discord](https://discordapp.com/).
 
-[![Discord](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discordapp.com/)
+
 
 Here's what I have been up to lately:
 
@@ -63,6 +63,6 @@ console.log(xp);
 
 ## Contact
 
-[![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIcon.png)](https://twitter.com/_TensorFlow)
+&nbsp;&nbsp;&nbsp;[![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIcon.png)](https://twitter.com/_TensorFlow)
 [![DiscordApp](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/gpd_125x125.png)](https://discord.gg/NvjBC7E)
 
