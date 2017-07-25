@@ -10,6 +10,8 @@ Several projects are actually Chrome extensions which can be installed from the 
 
 [![Chrome Extensions](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/ChromeExtensions.png)](https://chrome.google.com/webstore/search/gears%20of%20war%204?utm_source=chrome-ntp-icon&_feature=free&_category=ext/14-fun)
 
+### [Tac-Com](http://gowtaccom.weebly.com/)
+
 ### Works in Progress
 
 **1. Gears Quest**
