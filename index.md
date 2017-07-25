@@ -16,7 +16,7 @@ Other projects are hosted by [Tac-Com](http://gowtaccom.weebly.com/) on their to
 
 [![Helpful Tools](http://gowtaccom.weebly.com/uploads/5/4/7/8/54784787/lp-headers-tools_3_orig.jpg)](http://gowtaccom.weebly.com/tools.html)
 
-### Works in Progress
+## Works in Progress
 
 **1. Gears Quest**
 
@@ -59,7 +59,7 @@ var xp = JSON.parse(document.getElementById('initialState').textContent).versus.
 console.log(xp);
 ```
 
-### Contact
+## Contact
 
 [![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIcon.png)](https://twitter.com/_TensorFlow) [![DiscordApp](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/DiscordIcon.png)](https://discord.gg/NvjBC7E)
 
