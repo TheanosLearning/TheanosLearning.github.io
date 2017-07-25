@@ -5,7 +5,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Born to Kryll](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/born_to_kryll.jpg)
 
-I also like nerding out on in-game numbers, creating spreadsheets, and chatting with fellow Gears players & friends on the **Gears of War Project Development (GPD)** channel on [Discord](https://discordapp.com/). Take a look at what I've been up to lately:
+I also like nerding out on in-game numbers, creating spreadsheets, and chatting with fellow Gears players & friends on the **Gears of War Project Development** channel on [Discord](https://discordapp.com/). Take a look at what I've been up to lately:
 
 ## Extensions
 
