@@ -2,7 +2,8 @@
 
 I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. I also like nerding out on in-game numbers, creating spreadsheets, and chatting with fellow Gears players & friends on the [Gears of War Project Development](https://discord.gg/NvjBC7E) (GPD) channel on [Discord](https://discordapp.com/).
 
-![lkj](https://s-media-cache-ak0.pinimg.com/564x/b1/f3/2b/b1f32bd3a08ae1310df5a5a3770eace2.jpg)
+&emsp;&emsp;&emsp;&emsp;
+![Born to Kryll](https://s-media-cache-ak0.pinimg.com/564x/b1/f3/2b/b1f32bd3a08ae1310df5a5a3770eace2.jpg)
 
 Take a look at what I've been up to lately:
 
