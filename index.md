@@ -1,8 +1,8 @@
 # Hey guys, I'm TensorFlow!
 
-I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. I also like nerding out on in-game numbers and chatting with fellow Gears players & friends on Discord. I'm a member of the *Gears of War Project Development* (GPD) channel.
+I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. I also like nerding out on in-game numbers and stats, creating spreadsheets, and chatting with fellow Gears players & friends on the **Gears of War Project Development** (GPD) channel on Discord.
 
-![GPD](https://cdn.discordapp.com/icons/293825970509578242/8c02b9de461dcbc6181436b5864e04c0.png)
+[![Discord](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discordapp.com/)
 
 ## Extensions
 
