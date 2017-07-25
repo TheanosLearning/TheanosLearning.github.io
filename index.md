@@ -1,16 +1,20 @@
-## Hey guys! I'm TensorFlow,
+# Hey guys! I'm TensorFlow,
 
 I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. Most of my projects are in Javascript, which I learned by taking the _30 day Javascript challenge_.
 
 [![Javascript30](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/Js30Challenge.png)](https://javascript30.com)
 
-### Extensions
+## Extensions
 
 Several projects are actually Chrome extensions which can be installed from the Chrome Web Store.
 
 [![Chrome Extensions](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/ChromeExtensions.png)](https://chrome.google.com/webstore/search/gears%20of%20war%204?utm_source=chrome-ntp-icon&_feature=free&_category=ext/14-fun)
 
-### [Tac-Com](http://gowtaccom.weebly.com/)
+## Tac-Com
+
+Other projects are hosted by [Tac-Com](http://gowtaccom.weebly.com/) on their tools page.
+
+[![Helpful Tools](http://gowtaccom.weebly.com/uploads/5/4/7/8/54784787/lp-headers-tools_3_orig.jpg)](http://gowtaccom.weebly.com/tools.html)
 
 ### Works in Progress
 
