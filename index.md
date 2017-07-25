@@ -4,6 +4,8 @@ I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance pl
 
 [![Discord](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discordapp.com/)
 
+Here's what I have been up to lately:
+
 ## Extensions
 
 Several projects are actually Chrome extensions which can be installed from the Chrome Web Store.
