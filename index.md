@@ -1,6 +1,6 @@
 # Hey guys, I'm TensorFlow!
 
-I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience.
+### I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Born to Kryll](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/born_to_kryll.jpg)
