@@ -2,9 +2,9 @@
 
 I enjoy playing Gears of War 4 Horde and developing hobby projects to enhance player experience. I also like nerding out on in-game numbers, creating spreadsheets, and chatting with fellow Gears players & friends on the [Gears of War Project Development](https://discord.gg/NvjBC7E) (GPD) channel on [Discord](https://discordapp.com/).
 
+![Discord Community](https://support.discordapp.com/hc/en-us/article_attachments/204569208/blog_cover.png)
 
-
-Here's what I have been up to lately:
+Take a look at what I've been up to lately:
 
 ## Extensions
 
