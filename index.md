@@ -27,10 +27,10 @@ Project development will continue after [season 2](https://gearsofwar.com/en-us/
 
 ```javascript
 var sidebar = document.getElementById('sidebar');
-var quest = sidebar.querySelectorAll('[data-quest-id]')[0];
-var rewardBtn = quest.querySelector('.reward .button');
-// claim your quest reward!
-rewardBtn.click();
+var claimableQuests = sidebar.querySelectorAll('[data-quest_id].completed');
+var rewardBtns = Array.from(claimableQuests).map(quest => quest.querySelector('.reward > .button'));
+// claim all completed rewards!
+rewardBtns.map(btn => btn.click());
 ```
   
 **2. Color Blast Packs**
