@@ -63,8 +63,8 @@ console.log(xp);
 ```
 
 ## Contact me on Twitter or Discord
-
+<p align="center"> 
 [![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIcon.png)](https://twitter.com/_TensorFlow)
  &emsp;&emsp;
 [![DiscordApp](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/gpd_125x125.png)](https://discord.gg/NvjBC7E)
-
+</p>
