@@ -64,7 +64,7 @@ console.log(xp);
 
 ## Contact me on Twitter or Discord
 
-[![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIcon.png)](https://twitter.com/_TensorFlow)
+[![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/twitter-red_125x125.png)](https://twitter.com/_TensorFlow)
 
 &emsp;&emsp;
 
