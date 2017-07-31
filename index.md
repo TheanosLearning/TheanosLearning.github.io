@@ -66,4 +66,4 @@ console.log(xp);
 
 [![Twitter](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/TwitterIconRed_125.png)](https://twitter.com/_TensorFlow)
 &emsp;&emsp;
-[![DiscordApp](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/DiscordIconBlue_100.png)](https://discord.gg/NvjBC7E)
+[![DiscordApp](https://github.com/TheanosLearning/TheanosLearning.github.io/raw/master/images/DiscordGPDIcon_125.png)](https://discord.gg/NvjBC7E)
